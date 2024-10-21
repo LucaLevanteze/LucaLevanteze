@@ -9,7 +9,7 @@ export default function Luca() {
   return (
     <div className="Luca Silva Levanteze">
       <Field = Front-End Developer />
-      <University = Systems Analysis and Development - Unimetrocamp />
+      <University = Análise e Desenvolvimento de Sistemas - Unimetrocamp />
       <Location = "Campinas - SP" />
     </div>
   );
